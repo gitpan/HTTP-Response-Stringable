@@ -11,9 +11,9 @@ build_requires:
   strict: 0
   warnings: 0
 configure_requires:
-  ExtUtils::MakeMaker: 6.30
+  ExtUtils::MakeMaker: 0
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 5.009, CPAN::Meta::Converter version 2.131560'
+generated_by: 'Dist::Zilla version 5.025, CPAN::Meta::Converter version 2.142690'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -25,4 +25,4 @@ requires:
 resources:
   bugtracker: http://github.com/ironcamel/HTTP-Response-Stringable/issues
   repository: git://github.com/ironcamel/HTTP-Response-Stringable.git
-version: 0.0001
+version: 0.0002
